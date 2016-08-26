@@ -1,0 +1,128 @@
+.navbar {
+  width: 100vw;
+  height: 70px;
+  padding: 0 80px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  -moz-box-shadow: 0px 3px 5px #d3d3d3;
+  -webkit-box-shadow: 0px 3px 5px #d3d3d3;
+  box-shadow: 0px 3px 5px #d3d3d3;
+}
+.navbar nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.links a{
+  padding-right: 45px;
+  font-family: 'Poppins', sans-serif;
+}
+.iFIT-logo img{
+  height: 50px;
+  width: 100px;
+}
+
+.nav-icon {
+  display: flex;
+  flex-direction: column;
+}
+
+.nav-icon img {
+  height: 20px;
+  width: 20px;
+}
+.nav-icon p {
+  display: inline-block;
+}
+
+#carousel {
+  height: 90vh;
+  width: 100vw;
+}
+#carousel img {
+  height: 90vh;
+  width: 100vw;
+}
+.carousel-inner h1, h3{
+  font-family: 'Poppins', sans-serif;
+}
+.categories {
+  border-top: 4px solid #fff;
+  border-bottom: 4px solid #fff;
+  width: 100vw;
+  height: 30vh;
+  background-color: #f5f5f5;
+  display: flex;
+  flex-wrap: wrap;
+}
+.categories img {
+  height: 100px;
+  width: 250px;
+}
+.categories h3 {
+  display: flex;
+  justify-content: center;
+  font-size: 17px;
+}
+.left {
+  width: calc(100%  / 3);
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.middle {
+  border-left: 4px solid #fff;
+  border-right: 4px solid #fff;
+  width: calc(100%  / 3);
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.right {
+  width: calc(100%  / 3);
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.upper {
+  background-color: #f5f5f5;
+  width: 100vw;
+  height: 30vh;
+  padding: 40px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.upper-left {
+  width: calc(80% / 3);
+}
+
+.upper-middle {
+  width: calc(80% / 3);
+}
+
+.upper-right {
+  width: calc(80% / 3);
+}
+.lower {
+  width: 100vw;
+  height: 10vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+}
+.lower span {
+  margin: 5px;
+}

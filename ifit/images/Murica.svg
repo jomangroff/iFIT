@@ -1,0 +1,23 @@
+
+<svg width="20px" height="20px" viewBox="30 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="10" cy="10" r="10"></circle>
+    </defs>
+    <g id="US-Round" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(30.000000, 0.000000)">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="Oval-3"></g>
+        <g id="Group" mask="url(#mask-2)">
+            <g transform="translate(-2.160000, 0.000000)">
+                <rect id="Rectangle-1" fill="#F5F5F5" x="0" y="0" width="24.48" height="20" rx="0.4"></rect>
+                <rect id="Rectangle-3" fill="#BE3B31" x="0" y="0" width="24.48" height="4.03225806"></rect>
+                <rect id="Rectangle-3-copy" fill="#BE3B31" x="0" y="7.98387097" width="24.48" height="4.03225806"></rect>
+                <rect id="Rectangle-3-copy-5" fill="#BE3B31" x="0" y="15.9677419" width="24.48" height="4.03225806"></rect>
+                <rect id="Rectangle-2" fill="#2F80B7" x="0" y="0" width="12.280396" height="12.016129"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
